@@ -1,0 +1,30 @@
+{
+  "name": "node-random-crap",
+  "version": "0.0.0",
+  "description": "random crap",
+  "main": "flow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cjazinski/node-random-crap.git"
+  },
+  "keywords": [
+    "random",
+    "node",
+    "crap"
+  ],
+  "author": "Christopher Jazinski <chris@jazinski.com> (http://www.jazinski.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjazinski/node-random-crap/issues"
+  },
+  "homepage": "https://github.com/cjazinski/node-random-crap",
+  "dependencies": {
+    "nimble": "0.0.2"
+  },
+  "devDependencies": {
+    "sleep": "^1.1.8"
+  }
+}
